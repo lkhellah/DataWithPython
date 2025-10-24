@@ -14,9 +14,7 @@ This dataset contains country-level daily COVID-19 statistics, including cases, 
 - `location`: Country or region name  
 - `date`: Date of observation  
 - `total_cases`: Cumulative confirmed COVID-19 cases  
-- `new_cases`: New cases reported for that day  
 - `total_deaths`: Cumulative deaths  
-- `new_deaths`: Daily deaths  
 - `people_vaccinated`: Number of people vaccinated 
 
 **Size:** Approximately 430,000 rows and 67 columns.  
